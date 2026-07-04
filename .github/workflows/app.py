@@ -1,4 +1,4 @@
-# this code is copy from ...........
+# this code is copy from 
 from flask import Flask, render_template
 app = Flask(__name__)
 
