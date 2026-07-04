@@ -1,4 +1,4 @@
-# This code is copy from https://github.com/TrainWithShubham
+# This code is copy from https://github.com/TrainWithShubham.
 from flask import Flask, render_template
 app = Flask(__name__)
 
